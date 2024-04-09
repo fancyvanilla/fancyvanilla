@@ -2,13 +2,13 @@
 
 I'm a software engineering student based in Tunisia, passionate about software development and AI.
 
-### About Me
+### About Me 🙌
 
 - 🌱 I’m currently expanding my knowledge in Docker and MongoDB.
 - 👯 I’m eager to collaborate on projects involving Node.js and Python.
 - 📫 You can reach me at maryemby21@gmail.com.
 
-### Skills
+### Skills 🚀
 
 - **Programming Languages:** C, C++, JavaScript, Java, Python 
 - **Frameworks:** Spring Boot, React
