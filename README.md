@@ -1,6 +1,6 @@
 ## Hi, I'm fancyvanilla! 👋
 
-I'm a software engineering student based in Tunisia, passionate about software development and AI.
+I'm a software engineering student based in Tunisia, passionate about web development and AI.
 
 ### About Me 🙌
 
