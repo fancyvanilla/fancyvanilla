@@ -14,7 +14,6 @@ I'm a software engineering student based in Tunisia, passionate about software d
 - **Frameworks:** Spring Boot, React
 - **Databases:** MySQL
 
-Feel free to connect via [LinkedIn](https://www.linkedin.com/in/mariem-ben-younes-19b9802a8).
 
 
 <!--
