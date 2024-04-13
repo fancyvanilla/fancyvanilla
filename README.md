@@ -1,11 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+fancyvanilla!%F0%9F%91%8B)](https://git.io/typing-svg)
+## Hi, I'm fancyvanilla! 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=React+Developer;Aspiring+Full-Stack+Engineer;AI+Enthusiast;Love+Learning+New+Things)](https://git.io/typing-svg)
 
 I'm a software engineering student based in Tunisia, passionate about web development and AI.
 
 ### About Me 🙌
 
 - 🌱 I’m currently expanding my knowledge in Docker and MongoDB.
-- 👯 I’m eager to collaborate on projects involving Node.js and Python.
+- 👯 I’m eager to collaborate on web projects.
 - 📫 You can reach me at maryemby21@gmail.com.
 
 ### Skills 🚀
