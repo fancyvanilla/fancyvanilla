@@ -1,5 +1,5 @@
 ## Hi, I'm fancyvanilla! 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi, I'm fancyvanilla!👋)](https://git.io/typing-svg)
 I'm a software engineering student based in Tunisia, passionate about web development and AI.
 
 ### About Me 🙌
