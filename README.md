@@ -7,7 +7,7 @@ I'm a software engineering student based in Tunisia, passionate about web develo
 ### About Me 🙌
 
 - 🌱 I’m currently expanding my knowledge in Docker and MongoDB.
-- 👯 I’m eager to collaborate on web projects.
+- 👯 I’m eager to collaborate on web/machine learning projects.
 - 📫 You can reach me at maryemby21@gmail.com.
 
 ### Skills 🚀
