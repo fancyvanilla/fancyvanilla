@@ -17,7 +17,7 @@ I'm a software engineering student based in Tunisia, passionate about web develo
 - **Databases:** MySQL
 
 ### Projects 🔜
-I'm currently focused on a project that delves into Tunisian stock market data for insightful analysis, harnessing the capabilities of Hadoop and Hive.
+I'm currently learning Golang.
 <!--
 **fancyvanilla/fancyvanilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
