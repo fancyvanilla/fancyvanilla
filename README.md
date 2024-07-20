@@ -17,7 +17,7 @@ I'm a software engineering student based in Tunisia, passionate about web develo
 - **Databases:** MySQL
 
 ### Projects 🔜
-I'm currently learning Golang.
+I'm currently learning Next.js.
 <!--
 **fancyvanilla/fancyvanilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
