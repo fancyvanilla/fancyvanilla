@@ -12,9 +12,9 @@ I'm a software engineering student based in Tunisia, passionate about web develo
 
 ### Skills 🚀
 
-- **Programming Languages:** C, C++, JavaScript, Java, Python 
+- **Programming Languages:** C, C++, JavaScript, Java, Python, Go
 - **Frameworks:** Spring Boot, React
-- **Databases:** MySQL
+- **Databases:** MySQL, MongoDB
 
 ### Projects 🔜
 I'm currently learning Next.js.
