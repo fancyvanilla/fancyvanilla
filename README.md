@@ -6,7 +6,7 @@ I'm a software engineering student based in Tunisia, passionate about web develo
 
 ### About Me 🙌
 
-- 🌱 I’m currently expanding my knowledge in Docker and MongoDB.
+- 🌱 I’m currently expanding my knowledge in machine learning.
 - 👯 I’m eager to collaborate on web/machine learning projects.
 - 📫 You can reach me at maryemby21@gmail.com.
 
@@ -17,7 +17,7 @@ I'm a software engineering student based in Tunisia, passionate about web develo
 - **Databases:** MySQL, MongoDB
 
 ### Projects 🔜
-I'm currently learning Next.js.
+I'm currently learning neural networks.
 <!--
 **fancyvanilla/fancyvanilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
