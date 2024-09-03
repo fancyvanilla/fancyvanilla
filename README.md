@@ -1,12 +1,12 @@
 ## Hi, I'm fancyvanilla! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=React+Developer;Aspiring+Full-Stack+Engineer;AI+Enthusiast;Love+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer;Machine+Learning+Enthusist)](https://git.io/typing-svg)
 
 I'm a software engineering student based in Tunisia, passionate about web development and AI.
 
 ### About Me 🙌
 
-- 🌱 I’m currently expanding my knowledge in machine learning.
+- 🌱 I’m currently expanding my knowledge in machine learning and backend development.
 - 👯 I’m eager to collaborate on web/machine learning projects.
 - 📫 You can reach me at maryemby21@gmail.com.
 
