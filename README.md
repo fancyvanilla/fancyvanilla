@@ -17,7 +17,7 @@ I'm a software engineering student based in Tunisia, passionate about web develo
 - **Databases:** MySQL, MongoDB
 
 ### Projects 🔜
-I'm currently learning neural networks.
+I'm currently learning about neural networks.
 <!--
 **fancyvanilla/fancyvanilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
