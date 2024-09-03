@@ -1,6 +1,6 @@
 ## Hi, I'm fancyvanilla! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer;Machine+Learning+Enthusist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer;Machine+Learning+Enthusist;Aspiring+Entrepreneur)](https://git.io/typing-svg)
 
 I'm a software engineering student based in Tunisia, passionate about web development and AI.
 
