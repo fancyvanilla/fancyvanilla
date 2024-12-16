@@ -1,4 +1,4 @@
-## Hi, I'm fancyvanilla! 👋
+## Hi, I'm Mariem! 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Web+Developer;Machine+Learning+Enthusiast;Aspiring+Entrepreneur)](https://git.io/typing-svg)
 
