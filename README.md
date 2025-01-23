@@ -6,18 +6,18 @@ I'm a software engineering student based in Tunisia, passionate about web develo
 
 ### About Me 🙌
 
-- 🌱 I’m currently expanding my knowledge in machine learning and backend development.
-- 👯 I’m eager to collaborate on web/machine learning projects.
+- 🌱 I’m seeking to expand my knowledge in backend development, GenAI and cloud.
+- 👯 I’m eager to collaborate on fun projects.
 - 📫 You can reach me at maryemby21@gmail.com.
 
 ### Skills 🚀
 
-- **Programming Languages:** C, C++, JavaScript, Java, Python, Go
-- **Frameworks:** Spring Boot, React, Next
+- **Programming Languages:** TypeScript, Python, Go
+- **Frameworks and backend tech:** React, NestJS, Node
 - **Databases:** MySQL, MongoDB
 
 ### Projects 🔜
-I'm currently learning about neural networks.
+I'm currently learning about cloud technologies (AWS).
 <!--
 **fancyvanilla/fancyvanilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
