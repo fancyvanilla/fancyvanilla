@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Software+Developer;Cloud/DevOps+Enthusiast;Aspiring+Entrepreneur)](https://git.io/typing-svg)
 
-I'm a software engineering student based in Tunisia, passionate about web development and AI.
+I'm a software engineering student based in Tunisia, passionate about creating an impactful software.
 
 ### About Me 🙌
 
@@ -13,7 +13,7 @@ I'm a software engineering student based in Tunisia, passionate about web develo
 ### Skills 🚀
 
 - **Programming Languages:** TypeScript, Python, Go
-- **Frameworks and backend tech:** React, NestJS, Node
+- **Frameworks and backend tech:** React, NestJS, Node, Next.js
 - **Databases:** MySQL, MongoDB
 
 ### Projects 🔜
