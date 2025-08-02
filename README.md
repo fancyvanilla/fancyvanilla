@@ -1,6 +1,6 @@
 ## Hi, I'm Mariem! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Web+Developer;Cloud/DevOps+Enthusiast;Aspiring+Entrepreneur)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Software+Developer;Cloud/DevOps+Enthusiast;Aspiring+Entrepreneur)](https://git.io/typing-svg)
 
 I'm a software engineering student based in Tunisia, passionate about web development and AI.
 
